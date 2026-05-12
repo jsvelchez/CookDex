@@ -1,4 +1,4 @@
-# myapp
+# CookDex
 
 A new Flutter project.
 
