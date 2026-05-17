@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:myapp/core/constants/app_colors.dart';
 import 'package:myapp/core/constants/app_icons.dart';
 import 'package:myapp/core/constants/app_spacing.dart';
-import 'package:myapp/features/dashboard/dashboard_screen.dart';
-import 'package:myapp/features/kitchen/kitchen_screen.dart';
-import 'package:myapp/features/profile/profile_screen.dart';
-import 'package:myapp/features/world/world_screen.dart';
+import 'package:myapp/features/screens/dashboard_screen.dart';
+import 'package:myapp/features/screens/kitchen_screen.dart';
+import 'package:myapp/features/screens/profile_screen.dart';
+import 'package:myapp/features/screens/world_screen.dart';
 
 /// Manages the main bottom navigation bar and screen switching for the app.
 ///
